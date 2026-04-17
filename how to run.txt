@@ -1,0 +1,7 @@
+como rodar?
+
+em um terminal utilize
+streamlit run app.py
+
+
+se você fizer corretamente este passo, ele abrirá automaticamente uma aba no navegador.
